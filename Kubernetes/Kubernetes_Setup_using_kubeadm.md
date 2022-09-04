@@ -5,7 +5,7 @@ This documentation guides you in setting up a cluster with one master node and t
 
 ## Prerequisites: 
 1. System Requirements 
-    >Master: t2.medium (2 CPUs and 2GB Memory)   
+    >Master: t2.medium (2 CPUs and 4GB Memory)   
     >Worker Nodes: t2.micro 
 
 1. Open Below ports in the Security Group. 
