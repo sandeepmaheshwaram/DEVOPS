@@ -120,6 +120,6 @@ This documentation guides you in setting up a cluster with one master node and t
     ```
     To Get component status
     ```sh
-    kubectl get cs
+    kubectl get ps
     ```
 
